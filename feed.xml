@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>CBU Robotics</title>
+    <link href="https://CBU-Robotics.github.io/feed.xml" rel="self" />
+    <link href="https://CBU-Robotics.github.io" />
+    <updated>2026-10-01T19:51:46-07:00</updated>
+    <author>
+        <name>Jackson</name>
+    </author>
+    <id>https://CBU-Robotics.github.io</id>
+
+    <entry>
+        <title>Hello this is website</title>
+        <author>
+            <name>Jackson</name>
+        </author>
+        <link href="https://CBU-Robotics.github.io/hello-this-is-website.html"/>
+        <id>https://CBU-Robotics.github.io/hello-this-is-website.html</id>
+
+        <updated>2026-10-01T19:51:46-07:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                
+<figure class="post__image"><img loading="lazy"  src="https://cdn.discordapp.com/attachments/950920644801994762/1517503468582207619/image.png?ex=6ac0497c&amp;is=6abef7fc&amp;hm=556f405a384fcb0152384ff905fe8d48a0f65a7f896a5aad2ea107894bc6cd5c&amp;" alt="" width="434" height="386" data-is-external-image="true"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

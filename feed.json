@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "CBU Robotics",
+    "description": "",
+    "home_page_url": "https://CBU-Robotics.github.io",
+    "feed_url": "https://CBU-Robotics.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jackson"
+    },
+    "items": [
+        {
+            "id": "https://CBU-Robotics.github.io/hello-this-is-website.html",
+            "url": "https://CBU-Robotics.github.io/hello-this-is-website.html",
+            "title": "Hello this is website",
+            "content_html": "\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://cdn.discordapp.com/attachments/950920644801994762/1517503468582207619/image.png?ex=6ac0497c&amp;is=6abef7fc&amp;hm=556f405a384fcb0152384ff905fe8d48a0f65a7f896a5aad2ea107894bc6cd5c&amp;\" alt=\"\" width=\"434\" height=\"386\" data-is-external-image=\"true\"></figure>",
+            "author": {
+                "name": "Jackson"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-01T19:51:46-07:00",
+            "date_modified": "2026-10-01T19:51:46-07:00"
+        }
+    ]
+}
